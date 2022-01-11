@@ -9,7 +9,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- CSRF Token -->
   <meta name="csrf-token" content="{{ csrf_token() }}">
-  <title>Club Caramelo</title>
+  <title>Club Caramelo | Inicio</title>
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ asset('img/plantilla/favicon.ico') }}">
